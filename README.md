@@ -24,6 +24,10 @@ This Power BI dashboard presents an analysis of survey responses from data profe
 - `**PowerBI_Project.pbix**`: The full Power BI file. All data cleaning and transformations were done inside Power BI using Power Query Editor.
 - `**PowerBI_Project.png**`: A screenshot of the final dashboard.
 
+## 📷 Dashboard Preview
+
+![Power BI Dashboard](PowerBI_Project.png)
+
 ## 🧹 Data Cleaning Notes
 
 - Data cleaning and preprocessing were handled **entirely in Power BI** using Power Query.
